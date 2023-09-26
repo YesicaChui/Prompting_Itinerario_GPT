@@ -1,0 +1,30 @@
+asignatura: Progamacion en java
+Tema: Progaramacion Orientada a objetos
+Necesito que armes 5 preguntas con sus respectivas respuestas,
+pero que me lo devuelvas en JSON siguiente estructura.
+es sumamente importante que solo devuelbas el JSON sin decir nada previamente, ni aclarar nada
+
+
+[
+    {
+      "pregunta": "¿pregunta1?",
+      "respuesta": "reapuesta1"
+    },
+    {
+      "pregunta": "¿pregunta2?",
+      "respuesta": "reapuesta2"
+    },
+    {
+      "pregunta": "¿pregunta3?",
+      "respuesta": "reapuesta3"
+    },
+    {
+      "pregunta": "¿pregunta4",
+      "respuesta": "reapuesta4"
+    },
+    {
+      "pregunta": "¿pregunta5?",
+      "respuesta": "reapuesta5"
+    },
+  ]
+
