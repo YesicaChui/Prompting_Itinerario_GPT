@@ -1,4 +1,4 @@
-const CHATGPT_KEY = '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'
+const CHATGPT_KEY = 'sk-ooKFpItZLh4----<<<-TULLAVE->>>------Qo6R2TOA'
 
 async function onArmarPlan() {
   // alert('estoy funcionando')
